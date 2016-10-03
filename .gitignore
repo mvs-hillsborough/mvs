@@ -1,6 +1,6 @@
-/.idea
 /vendor
+/node_modules
+/public/storage
+Homestead.yaml
+Homestead.json
 .env
-.env.example
-.realsync
-/public/php_errors.log
